@@ -25,6 +25,7 @@ h1{
 
 kbd{
     font-size: 2.5rem;
+    font-family: 'Cutive Mono', monospace;
 }
 .keys{
     padding: 1rem;
@@ -49,6 +50,7 @@ kbd{
 .sound{
     font-size: 0.85rem;
     padding-top: 1rem;
+    font-family: 'Cousine', monospace;
 }
 
 
