@@ -47,6 +47,7 @@ kbd{
     margin: 0.25rem;
     transition: all 0.2s;
     box-shadow: 0 0 2px rgba(255, 123, 0, 0.59);
+    background-color: rgba(240, 232, 198, 0.7);
 }
 
 .sound{
